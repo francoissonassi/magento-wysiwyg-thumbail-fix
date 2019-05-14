@@ -7,7 +7,7 @@
  * @package     Osmage_Mycms
  * @author      Sergiu <sergiu@osmage.com>
  */
-class Networld_Catalogutils_Model_Wysiwyg_Images_Storage extends Mage_Cms_Model_Wysiwyg_Images_Storage
+class Osmage_Mycms_Model_Wysiwyg_Images_Storage extends Mage_Cms_Model_Wysiwyg_Images_Storage
 {
     
     /**
